@@ -1,0 +1,6 @@
+LIBRARY "Dll2"
+
+EXPORTS
+	DllGetClassObject	@1	PRIVATE
+	DllCanUnloadNow	@2	PRIVATE
+LIBRARY
